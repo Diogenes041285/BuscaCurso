@@ -1,0 +1,17 @@
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.InfraData.deps.json
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.InfraData.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.InfraData.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.Commons.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.Domain.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.Commons.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\bin\Debug\net6.0\BuscaCurso.Domain.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.csproj.AssemblyReference.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.AssemblyInfoInputs.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.AssemblyInfo.cs
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.csproj.CoreCompileInputs.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.csproj.CopyComplete
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\refint\BuscaCurso.InfraData.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\BuscaCurso.InfraData.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.InfraData\obj\Debug\net6.0\ref\BuscaCurso.InfraData.dll

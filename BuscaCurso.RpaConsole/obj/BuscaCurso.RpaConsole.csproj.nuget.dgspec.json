@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.RpaConsole\\BuscaCurso.RpaConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\BuscaCurso.AluraWebDriver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\BuscaCurso.AluraWebDriver.csproj",
+        "projectName": "BuscaCurso.AluraWebDriver",
+        "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\BuscaCurso.AluraWebDriver.csproj",
+        "packagesPath": "C:\\Users\\dijho\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dijho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[119.0.6045.10500, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj",
+        "projectName": "BuscaCurso.Commons",
+        "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj",
+        "packagesPath": "C:\\Users\\dijho\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dijho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj",
+        "projectName": "BuscaCurso.Domain",
+        "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj",
+        "packagesPath": "C:\\Users\\dijho\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dijho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\BuscaCurso.InfraData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\BuscaCurso.InfraData.csproj",
+        "projectName": "BuscaCurso.InfraData",
+        "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\BuscaCurso.InfraData.csproj",
+        "packagesPath": "C:\\Users\\dijho\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dijho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Commons\\BuscaCurso.Commons.csproj"
+              },
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.RpaConsole\\BuscaCurso.RpaConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.RpaConsole\\BuscaCurso.RpaConsole.csproj",
+        "projectName": "BuscaCurso.RpaConsole",
+        "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.RpaConsole\\BuscaCurso.RpaConsole.csproj",
+        "packagesPath": "C:\\Users\\dijho\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.RpaConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dijho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\BuscaCurso.AluraWebDriver.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.AluraWebDriver\\BuscaCurso.AluraWebDriver.csproj"
+              },
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.Domain\\BuscaCurso.Domain.csproj"
+              },
+              "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\BuscaCurso.InfraData.csproj": {
+                "projectPath": "C:\\Projetos\\Off\\BuscaCurso\\BuscaCurso.InfraData\\BuscaCurso.InfraData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

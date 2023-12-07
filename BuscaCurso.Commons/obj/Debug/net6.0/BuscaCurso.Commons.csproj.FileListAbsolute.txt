@@ -1,0 +1,12 @@
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\bin\Debug\net6.0\BuscaCurso.Commons.deps.json
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\bin\Debug\net6.0\BuscaCurso.Commons.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\bin\Debug\net6.0\BuscaCurso.Commons.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.csproj.AssemblyReference.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.AssemblyInfoInputs.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.AssemblyInfo.cs
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.csproj.CoreCompileInputs.cache
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\refint\BuscaCurso.Commons.dll
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\BuscaCurso.Commons.pdb
+C:\Projetos\Off\BuscaCurso\BuscaCurso.Commons\obj\Debug\net6.0\ref\BuscaCurso.Commons.dll
