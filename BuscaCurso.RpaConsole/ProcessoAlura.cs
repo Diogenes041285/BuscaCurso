@@ -24,6 +24,7 @@ namespace BuscaCurso.RpaConsole
 			}
 
 			_cursoRepository.AddRange(listaCursos);
+			_cursoRepository.SaveChanges();
 		}
 	}
 }
