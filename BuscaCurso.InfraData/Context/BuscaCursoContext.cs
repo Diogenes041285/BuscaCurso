@@ -19,7 +19,6 @@ namespace BuscaCurso.InfraData.Context
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
-			modelBuilder.HasDefaultSchema(DBSCHEMA);
 			modelBuilder.ApplyConfigurationsFromAssembly(typeof(BuscaCursoContext).Assembly);
 			
 			base.OnModelCreating(modelBuilder);
