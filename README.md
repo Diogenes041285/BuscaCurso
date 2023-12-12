@@ -9,10 +9,10 @@ Frameworks/Versões:
   - Entity Framework 7;
   - SQL Server;
 
-Camadas
+Camadas:
 
   - Data (conexão com fontes externas de dados e persistência/CRUD);
-  - Domínio (representação as entidades, lógicas e regras de negócio);
+  - Domínio (representação das entidades, lógicas e regras de negócio);
   - Interfaces (telas de interação entre o sistema e os usuários, consoles ou windows services);
   - Services (conexão com serviços externos. Ex: api's e rpa's).
 
